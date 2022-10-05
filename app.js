@@ -11,6 +11,8 @@ loadEventListeners();
 function loadEventListeners(){
     // Add task event
     form.addEventListener('submit', addTask);
+    // Remove task event
+    //taskList.add
 }
 
 // Add Task
